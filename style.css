@@ -1,0 +1,31 @@
+.body{
+    background-color: rgb(63, 53, 53);
+}
+.one{
+    color: white;
+}
+  .card {
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    padding: 20px;
+    width: 300px;
+   
+  }
+  .butt{
+    margin-left: 40%;
+    border: 2px solid purple;
+    color: white;
+    border-radius: 15%;
+    background-color: rgb(65, 58, 58);
+  }
+  .col-2{margin-left: 6%;
+margin-top: 2%;
+}
+.butt2{
+  background-color: blueviolet;
+  color: white;
+  size: 10%;
+}
+.img1{
+  margin-left: 20%;
+}
